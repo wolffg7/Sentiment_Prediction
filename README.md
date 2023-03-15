@@ -1,4 +1,6 @@
-# Sentiment_Prediction
+# Sentiment_Prediction— Abstract and Readme
+
+Team Members: Wolff Gilligan and Ethan McFarlin, AIT Budapest Spring 2023
 
 Project Title: The Positive, the Negative, and Everything In Between— Sentiment Prediction in Movie Reviews
 
