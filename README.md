@@ -1,4 +1,4 @@
-# Sentiment_Prediction— Abstract and Readme
+# Sentiment_Prediction— Abstract and ReadMe
 
 Team Members: Wolff Gilligan and Ethan McFarlin, AIT Budapest Spring 2023
 
