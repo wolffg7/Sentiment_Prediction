@@ -2,7 +2,7 @@
 
 Team Members: Wolff Gilligan and Ethan McFarlin, AIT Budapest Spring 2023
 
-Project Title: The Positive, the Negative, and Everything In Between— Sentiment Prediction in Movie Reviews
+Project Title: The Positive, the Negative, and Everything In Between— Sentiment Prediction in Movie Reviews Using Deep Learning
 
 Project Description: We aim to classify the sentiment of movie reviews using 5 categorical labels: very negative, negative, neutral, positive, and very positive. As avid cinema enthusiasts, we are drawn to this project idea, as it has real-world applications in the natural language processing field.  
 
