@@ -10,11 +10,12 @@ Database: We have chosen to use the sst5 database— which stands for the Stanfo
 
 Pre-processing: We began this stage by removing a select combination of stop-words from the input sentences. In order to assign each word with a unique numerical identifier, we performed a form of tokenization adapted for BERT across our training, test, and validation data. We also structured our tokenized data such that sentences are bound to their corresponding sentiments. Then, to ensure that each index is formatted with a uniform number of words, we calculated the maximum sentence length and distributed padding across the dataset. In the process of doing so, we built out an attention mask for the BERT model, which helps it to distinguish between padded and non-padded sequences. Equipped with our pre-processed sequences and an attention mask, both data structures were converted to a NumPy array in preparation for the proceeding stage, defining the model.
 
-Model: To train our classifier, we will leverage a BERT-based deep learning model. Looking ahead to the next steps, we plan to officially bring our deep learning model to fruition, fine tune its parameters, assess its performance using our test set, and lastly, introduce new test data which uses ChatGTP labels.
+Model: Our sentiment prediction leverages a pre-trained BERT deep learning model. The attention mask and re-formatted sentences created in the pre-processing phase are passed into BERT. The implementation of this model uses an architecture consisting of dense and dropout layers. The input is then subsetted into test, train, and validation groups. Finally, the model is fitted to the data and evaluated for performance. 
 
 Works Cited:
 
 1. [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](https://aclanthology.org/D13-1170) (Socher et al., EMNLP 2013)
+2. [BERT language model] (https://www.techtarget.com/searchenterpriseai/definition/BERT-language-model) (Ben Lutkevich, TechTarget 2020)
 
 Database Link:
 
