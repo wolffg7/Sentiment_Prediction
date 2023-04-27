@@ -15,7 +15,7 @@ Model: Our sentiment prediction leverages a pre-trained BERT deep learning model
 Works Cited:
 
 1. [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](https://aclanthology.org/D13-1170) (Socher et al., EMNLP 2013)
-2. [BERT language model] (https://www.techtarget.com/searchenterpriseai/definition/BERT-language-model) (Ben Lutkevich, TechTarget 2020)
+2. [BERT language model](https://www.techtarget.com/searchenterpriseai/definition/BERT-language-model) (Ben Lutkevich, TechTarget 2020)
 
 Database Link:
 
