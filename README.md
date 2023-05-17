@@ -6,6 +6,8 @@ Project Title: The Positive, the Negative, and Everything In Between— Sentimen
 
 Full Documentation: [click here](https://docs.google.com/document/d/1JGz4GjbxrzFUUXuc9B2sKRmqLz6bmyH9sU8HfGTQ8SM/edit?usp=sharing)
 
+Presentation Link: [click here](https://docs.google.com/presentation/d/1supNDNH-lGQWGH6QKr9jTHkWpu9eR1Y9/edit?usp=sharing&ouid=117979881791114394248&rtpof=true&sd=true)
+
 Project Description: We aim to classify the sentiment of movie reviews using 5 categorical labels: very negative, negative, neutral, positive, and very positive. As avid cinema enthusiasts, we are drawn to this project idea, as it has real-world applications in the natural language processing field.  
 
 Database: We have chosen to use the sst5 database— which stands for the Stanford Sentiment Treebank. Composed of fine-grain labels detailing the positive/negative sentiments of movie reviews, the dataset includes 215,154 phrases and 11,855 sentences [1]. The training subset of this data is made up of 8,544 sentences, whereas the test includes 2,210 and the validation has 1,101.
